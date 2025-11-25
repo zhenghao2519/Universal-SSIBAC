@@ -1,6 +1,7 @@
 # Self-sovereign Identity-based Access Control Management in Forestry 4.0
 
-<div>
+<div  align="center">
+<h3>[FiCloud 2023] Self-sovereign Identity-based Access Control Management in Forestry 4.0</h3>
 <a href="https://ieeexplore.ieee.org/document/10410831"><img src='https://img.shields.io/badge/Paper_Link-blue' alt='Paper'></a>
 </div>
 
