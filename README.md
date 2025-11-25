@@ -1,6 +1,8 @@
-# Universal SSI-Based Decentralized Access Control
+# Self-sovereign Identity-based Access Control Management in Forestry 4.0
 
-A decentralized access control system supports all kinds of access control models (e.g., ABAC, RBAC, CapBAC) by leveraging SSI (Self-sovereign Identity).
+<div>
+<a href="https://ieeexplore.ieee.org/document/10410831"><img src='https://img.shields.io/badge/Paper_Link-blue' alt='Paper'></a>
+</div>
 
 ## Overview
 
@@ -96,5 +98,18 @@ Fetch the name and ID of all your created schema on the ledger.
 Send a request asking for certain resources or services from the current connected agent. 
 There are two workflows:
 1. Explicit authorization flow: VCs contains already explicit access rights, e.g, CapBAC.
-2. Impilicit authorization flow: VCs contains only implicit information, which may bring access rights, e.g., DAC,ABAC, RBAC ... 
+2. Impilicit authorization flow: VCs contains only implicit information, which may bring access rights, e.g., DAC,ABAC, RBAC ...
+
+
+## Citation
+```
+@inproceedings{inproceedings,
+author = {Mou, Yongli and Chen, Jiahang and Zhang, Zhenghao and Rossmann, J. and Decker, Stefan},
+year = {2023},
+month = {08},
+pages = {159-166},
+title = {Self-sovereign Identity-based Access Control Management in Forestry 4.0},
+doi = {10.1109/FiCloud58648.2023.00031}
+}
+```
 
