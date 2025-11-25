@@ -13,8 +13,8 @@ Yongli Mou<sup>\*</sup>, Jiahang Chen<sup>\*</sup>, Zhenghao Zhang<sup>\*</sup>,
 ## Overview
 
 SSI stands for Self-sovereign Identity.
-It consists of two cornerstones: Decentralized Identifier (DID) and Verifiable Credentail (VC) 
-This repository provides a general mechanism for IoT devices to use DIDs and VCs for access control.
+It consists of two components: Decentralized Identifier (DID) and Verifiable Credentail (VC) 
+This repository provides a universal mechanism for IoT devices to use DIDs and VCs for both explicit and implicit access control models.
 
 This directory contains four parts, which form an agent representing a smart thing in IoT world. 
 
