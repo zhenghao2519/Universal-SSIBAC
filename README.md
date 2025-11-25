@@ -7,7 +7,7 @@ Yongli Mou<sup>\*</sup>, Jiahang Chen<sup>\*</sup>, Zhenghao Zhang<sup>\*</sup>,
 
 (\*) Equal contribution
 
-<a href="https://ieeexplore.ieee.org/document/10410831"><img src='https://img.shields.io/badge/Paper_Link-blue' alt='Paper'></a>
+<a href="https://ieeexplore.ieee.org/document/10410831"><img src='https://img.shields.io/badge/Paper-red' alt='Paper'></a>
 </div>
 
 ## Overview
