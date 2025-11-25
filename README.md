@@ -2,6 +2,9 @@
 
 <div  align="center">
 <h3>[FiCloud 2023] Self-sovereign Identity-based Access Control Management in Forestry 4.0</h3>
+  
+Yongli Mou<sup>\*</sup>, Jiahang Chen<sup>\*</sup>, Zhenghao Zhang<sup>\*</sup>, Jürgen Roßmann, Stefan Decker
+(\*) Equal contribution
 <a href="https://ieeexplore.ieee.org/document/10410831"><img src='https://img.shields.io/badge/Paper_Link-blue' alt='Paper'></a>
 </div>
 
