@@ -1,4 +1,4 @@
-# SSI-Based Decentralized Access Control
+# Universal SSI-Based Decentralized Access Control
 
 A decentralized access control system supports all kinds of access control models (e.g., ABAC, RBAC, CapBAC) by leveraging SSI (Self-sovereign Identity).
 
